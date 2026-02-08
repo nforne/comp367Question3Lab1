@@ -32,3 +32,4 @@ E:\COL - SEM - A\Courses - A\Semester D - 6\COMP 367 - DevOps Implementation\04\
 E:\COL - SEM - A\Courses - A\Semester D - 6\COMP 367 - DevOps Implementation\04\Lab#1\comp367Question3Lab1\comp367Question3Lab1\obj\Debug\net8.0\comp367Question3Lab1.pdb
 E:\COL - SEM - A\Courses - A\Semester D - 6\COMP 367 - DevOps Implementation\04\Lab#1\comp367Question3Lab1\comp367Question3Lab1\obj\Debug\net8.0\comp367Question3Lab1.genruntimeconfig.cache
 E:\COL - SEM - A\Courses - A\Semester D - 6\COMP 367 - DevOps Implementation\04\Lab#1\comp367Question3Lab1\comp367Question3Lab1\obj\Debug\net8.0\ref\comp367Question3Lab1.dll
+E:\COL - SEM - A\Courses - A\Semester D - 6\COMP 367 - DevOps Implementation\04\Lab#1\comp367Question3Lab1\comp367Question3Lab1\obj\Debug\net8.0\comp367Question3Lab1.sourcelink.json
